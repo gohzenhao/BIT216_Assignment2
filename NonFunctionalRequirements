@@ -1,0 +1,10 @@
+1. Usability: The website will be very easy to use and simplified. 
+The interface of the website will not be overcrowded with too many functions or complex designs.
+
+2. Performance: The website should respond to user interaction with minimal time. 
+Complex database queries, filters, sorting should respond in less than 3 seconds when users use the search bar.
+
+3. Platform  compatibility: The website should be able to run on different web browsers with no errors. 
+For example, Internet Explorer, Google Chrome or Firefox.
+
+4. Efficiency: Users are able to finish their intended tasks with minimal number of steps. No redundancy in action is required.
