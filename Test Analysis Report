@@ -1,0 +1,5 @@
+Test Analysis Report
+Report and summary 
+Coming up with a platform to sell/buy services was thought to be easy initially. However, implementing the functions that the website provides proved to be quite a challenging task. During implementation, we encountered many errors. We did not manage to fully complete Iteration 1, thus may result in delay of the progress of the Gantt chart. Upload image and displaying them is still under testing and implementation. Resolving this issue may be performed in Iteration 2. 
+
+Overall, the tests were successful in identifying important flaws that we may have overlooked. Besides the issue with displaying images, other requirements set for Iteration 1 have been met.
