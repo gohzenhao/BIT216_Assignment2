@@ -1,11 +1,16 @@
 Problems Faced in Iteration 1
 
-  Implementing some of the functions such as uploading an image was quite difficult because we had to figure out how to store it.
+    During the implementation of iteration 1 use cases, we managed to complete most of the required use cases.
+  However, one of our use case which is displaying the image when uploaded was incomplete due to inexperience
+  with handling uploaded files. Besides some minor improvements required on the front-end, there were not many
+  serious problems to address.
+  
+    Implementing some of the functions such as uploading an image was quite difficult because we had to figure out how to store it.
   Besides that, we were also unable to preview the image before uploading it to the database. After creating a new service, users
   are supposed to be able to edit it in the settings page. However, we could not implement the edit function as we encountered some issues
   and did not have enough time. The interface of our website during iteration 1 was not utilized properly as there were plenty of white space.
   
-  We managed to solve how to upload an image by storing it as a blob in the database and move it to a folder in our computer. As for previewing
+    We managed to solve how to upload an image by storing it as a blob in the database and move it to a folder in our computer. As for previewing
   image and edit function for services, we still have not come up with a solution. We did minor changes
   to the UX design of our website to make it look better.
   
