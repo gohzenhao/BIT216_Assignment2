@@ -1,0 +1,13 @@
+After having completed iteration 1 and iteration 2 on time according to gantt chart,
+we successfully met all of the objectives defined in assignment 1. 
+This is because we managed to implement the main functionality of the use cases we set out to complete which are :
+	1.  Login / signup 
+	2. Create / customize service
+	3. Add service to cart
+	4. Search / sort / filter services
+	5. View transaction history
+	6. Give comment and rating
+However, there are a few minor functionalities that have not been implemented for some of the use cases.
+We did not implement edit function for service and preview image when creating a new service. 
+The problem we encountered for the edit function is the new information would not be recorded to the database when we click the save.
+The system cannot find the image file to preview before it was uploaded to database. It can only find the image file after it is uploaded. 
