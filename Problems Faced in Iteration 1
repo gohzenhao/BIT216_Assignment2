@@ -4,3 +4,6 @@ Problems Faced in Iteration 1
 and the front-end post page needs to be updated. After some research, we were able to get the page to have a post with a hyperlink
 inside that links to the post detail page to show up by using some php codes.
 
+  Although upload image was successful as the image was saved into the database, we had some difficulties with previewing the
+image when the image is uploaded. However, it is possible for this problem to be fixed as we require more research to implement
+some codes to show the image when uploaded.
