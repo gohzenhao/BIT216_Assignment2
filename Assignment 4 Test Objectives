@@ -1,0 +1,7 @@
+Test Objectives
+1.	To identify as many errors, failures, and faults as possible in the source code.
+2.	To ensure the main priority functionalities of Pipperrr are able to function as intended and fulfill the user requirements.
+3.	To compile a clear documentation on the test analysis, results and methodology.
+4.	To uncover any problems or errors when integrating the system components caused from unit testing.
+5.	To ensure both functional, non-functional, and performance requirements are satisfied through the testing phase.
+6.	To make sure that the results produced while using the system are accurate.
