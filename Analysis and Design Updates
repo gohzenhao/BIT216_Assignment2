@@ -7,3 +7,18 @@ fetches data from the database. However, the search bar can be done last as we w
 completing the less challenging ones as this functionality can prove to be quite a challenge because it is
 difficult to make it function the way we intend such as finding the post related to the key word which most
 likely require using SQL database queries.
+
+    As for the Design updates, we had to adjust some of the front-end format to make everything look consistent
+  where the post displayed will appear as a tile so that users can identify the post easily and it would seem
+  to be more user friendly. Moreover, we added the ratings and comments function to the posts while we also had
+  to update the database by adding a new table called reviews. It was decided that with these functions, it can
+  improve the users’ experience when using the site as they can tell if the post is legit or not.
+  
+  The sample Review table:
+Name of Data	Type of Data	Size of Data
+serviceID	    varchar	          20
+userID	      varchar	          20
+date	        date	            10
+rating	      decimal	          5
+comment	      varchar	          50
+
