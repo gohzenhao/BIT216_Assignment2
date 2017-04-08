@@ -1,0 +1,6 @@
+Problems Faced in Iteration 1
+
+  Implementing some of the functions such as uploading post an image was quite difficult as the post is uploaded in the database
+and the front-end post page needs to be updated. After some research, we were able to get the page to have a post with a hyperlink
+inside that links to the post detail page to show up by using some php codes.
+
