@@ -1,9 +1,11 @@
 Problems Faced in Iteration 1
 
-  Implementing some of the functions such as uploading post an image was quite difficult as the post is uploaded in the database
-and the front-end post page needs to be updated. After some research, we were able to get the page to have a post with a hyperlink
-inside that links to the post detail page to show up by using some php codes.
-
-  Although upload image was successful as the image was saved into the database, we had some difficulties with previewing the
-image when the image is uploaded. However, it is possible for this problem to be fixed as we require more research to implement
-some codes to show the image when uploaded.
+  Implementing some of the functions such as uploading an image was quite difficult because we had to figure out how to store it.
+  Besides that, we were also unable to preview the image before uploading it to the database. After creating a new service, users
+  are supposed to be able to edit it in the settings page. However, we could not implement the edit function as we encountered some issues
+  and did not have enough time. The interface of our website during iteration 1 was not utilized properly as there were plenty of white space.
+  
+  We managed to solve how to upload an image by storing it as a blob in the database and move it to a folder in our computer. As for previewing
+  image and edit function for services, we still have not come up with a solution. We did minor changes
+  to the UX design of our website to make it look better.
+  
