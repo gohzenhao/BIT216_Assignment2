@@ -1,0 +1,9 @@
+Analysis and Design Updates
+
+  After some research and discussion of the implementation of the use cases, we decided that functionalities
+such as adding comments and ratings should be done after solving the image preview problem as they are very
+simple to do then the view transaction history because it is not very difficult to implement as it just
+fetches data from the database. However, the search bar can be done last as we would have extra time after
+completing the less challenging ones as this functionality can prove to be quite a challenge because it is
+difficult to make it function the way we intend such as finding the post related to the key word which most
+likely require using SQL database queries.
