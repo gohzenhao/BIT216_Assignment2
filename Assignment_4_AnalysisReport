@@ -1,0 +1,6 @@
+We successfully completed unit testing, integrated testing and system testing. 
+The test plan we set out initially was achieved without any issues. 
+The remaining use cases for iteration 2 were implemented and tested without any problems. 
+All the test data we defined covers up all the possibilities that a user can enter or select. 
+All activities were completed according to Gantt chart.
+The delete function for review was not implemented. Therefore, we did not manage to undergo testing for that particular function.
