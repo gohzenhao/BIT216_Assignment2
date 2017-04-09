@@ -1,0 +1,8 @@
+Test Plan
+  There are no changes for the test plan for Iteration 2. We will still be carrying out the three levels of tests and record them.
+However, we added a test commencing date and test duration to record the amount of time needed to complete each testing phase
+as a prove that the tests were carried out. A unit testing was carried out as every component requires a lot of time to develop
+and implement in to the system.
+
+	There will be 3 different type of test which will be carried out and recorded. There will be 2 strategies used to test which is 
+the black box strategy which it does not require showing any source code and white box which will display the source code.
