@@ -1,24 +1,18 @@
-Analysis and Design Updates
-
-  After some research and discussion of the implementation of the use cases, we decided that functionalities
-such as adding comments and ratings should be done after solving the image preview problem as they are very
-simple to do then the view transaction history because it is not very difficult to implement as it just
-fetches data from the database. However, the search bar can be done last as we would have extra time after
-completing the less challenging ones as this functionality can prove to be quite a challenge because it is
-difficult to make it function the way we intend such as finding the post related to the key word which most
-likely require using SQL database queries.
-
-    As for the Design updates, we had to adjust some of the front-end format to make everything look consistent
-  where the post displayed will appear as a tile so that users can identify the post easily and it would seem
-  to be more user friendly. Moreover, we added the ratings and comments function to the posts while we also had
-  to update the database by adding a new table called reviews. It was decided that with these functions, it can
-  improve the users’ experience when using the site as they can tell if the post is legit or not.
+	After some research and discussion of the implementation of the use cases, 
+  we decided that functionalities such as adding comments and ratings should be done after solving the minor problems we had in iteration 1
+  as they are more simplified.
   
-  The sample Review table:
-Name of Data	Type of Data	Size of Data
-serviceID	    varchar	          20
-userID	      varchar	          20
-date	        date	            10
-rating	      decimal	          5
-comment	      varchar	          50
+  Viewing transaction history should be completed first compared to the other use cases because it is straight forward. 
+  
+  The search bar can be done last as we would have extra time after completing the less challenging ones as this functionality can be 
+  quite a challenge because of the complex algorithms we have to design.
+  
+	As for the Design updates, we had to adjust some of the front-end format to make everything look consistent where the post displayed
+  will appear as a tile so that users can identify the post easily and it would seem to be more user friendly. 
+  
+ We also changed the layout of some pages to utilize the empty spaces more effectively. 
+ 
+We revised the “Service” table in the database. “Average rating” was added into the table to display it on the website along 
+with other details. “Buyer ID” and “Seller ID” was also added into the “TransactionHistory” table to easily identify the buyer and seller.
+
 
